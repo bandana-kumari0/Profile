@@ -5,7 +5,8 @@
 💬 Ask me about data analytics
 📫 How to reach me:
 ⠀⠀ [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:999111bandanakumari@gmail.com)
-  email LinkedIn
+  LinkedIn
+  
 👩🏻‍💻 About me:
 I'm Shreya, an ambitious data science student passionate about turning complex data into actionable insights. 🔍
 
