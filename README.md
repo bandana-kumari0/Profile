@@ -4,7 +4,7 @@
 👯 I’m looking to collaborate on cool data science projects.
 💬 Ask me about data analytics
 📫 How to reach me:
-⠀⠀ <img src="{![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)}" />  email LinkedIn
+⠀⠀ [![Gmail Badge](https://img.shields.io/badge/Gmail-999111bandanakumari@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:999111bandanakumari@gmail.com)  email LinkedIn
 👩🏻‍💻 About me:
 I'm Shreya, an ambitious data science student passionate about turning complex data into actionable insights. 🔍
 
